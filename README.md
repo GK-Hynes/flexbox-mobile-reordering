@@ -4,6 +4,8 @@ Built for Wes Bos' [Flexbox course](https://flexbox.io/).
 
 The page uses flexbox's `order` property to reorder content for mobile screens without reordering the elements in the DOM.
 
+See the page live [here](https://gk-hynes.github.io/flexbox-mobile-reordering/)
+
 Two things to remember:
 
 It's good to wrap your page in a wrapper to give you something you can use as your flex container.
